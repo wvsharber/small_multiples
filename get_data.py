@@ -22,4 +22,5 @@ commits_long_df = pd.melt(commits_df,
                                       "dakota", "jordan", "kieran"])
 
 # export commits_long_df as a CSV file ----
-commits_long_df.to_csv("commits_per_hour_long.csv", index=False)
+commits_long_df.to_csv("write_data/commits_per_hour_long.csv", index=False)
+
