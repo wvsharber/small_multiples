@@ -1,4 +1,3 @@
 # Visuals
 
-This directory will store all visual output.
-
+This directory will store all visuals created or referenced throughout the project.
